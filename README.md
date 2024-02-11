@@ -15,6 +15,6 @@ Pedestrian Detector Application
 
 ### Sample Output 2:
 ![image](https://github.com/sandhitaroy/Pedestrian_Detector/assets/140893891/870fa6f2-466a-42b9-970c-b54afd031292)
-![video](https://github.com/sandhitaroy/Pedestrian_Detector/assets/140893891/5c052c51-b4bf-48ee-bcd6-71aa0de1e3cf)
+https://github.com/sandhitaroy/Pedestrian_Detector/assets/140893891/5c052c51-b4bf-48ee-bcd6-71aa0de1e3cf
 
 
